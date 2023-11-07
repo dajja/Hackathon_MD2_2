@@ -1,0 +1,15 @@
+.cart-container {
+    max-width: 100%;
+    padding: 10px 100px;
+    background-color: rgb(193, 192, 192);
+}
+.cart-detail {
+    background-color: white;
+    padding: 20px 0;
+}
+.cart-title {
+    text-align: center;
+    font-size: 20px;
+    font-weight: 700;
+    color: rgb(250, 65, 65);
+}
